@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <size
+        android:width="@dimen/popup_oval_button_height"
+        android:height="@dimen/popup_oval_button_width" />
+    <gradient
+        android:angle="270"
+        android:endColor="?attr/color_buttonBackground"
+        android:startColor="@color/btn_pressed_bg_gradient_start" />
+    <stroke
+        android:width="@dimen/button_stroke_size"
+        android:color="@color/white_100" />
+</shape>

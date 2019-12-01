@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_normal_width">64dp</dimen>
+    <dimen name="button_normal_height">64dp</dimen>
+    <dimen name="oval_button_width">64dp</dimen>
+    <dimen name="oval_button_height">64dp</dimen>
+    <dimen name="popup_oval_button_width">86dp</dimen>
+    <dimen name="popup_oval_button_height">86dp</dimen>
+    <dimen name="button_stroke_size">1dp</dimen>
+
+    <dimen name="dialog_width">765dp</dimen>
+    <dimen name="dialog_height">1012dp</dimen>
+
+    <dimen name="button_dialog_width">324dp</dimen>
+    <dimen name="button_corner_radius">32dp</dimen>
+
+</resources>

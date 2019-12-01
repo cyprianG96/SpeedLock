@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CustomMobicaTheme">
+        <!-- Colors -->
+        <attr name="color_buttonBackground" format="color" />
+        <attr name="color_buttonSourceStart" format="color" />
+        <attr name="color_buttonSourceEnd" format="color" />
+        <attr name="color_buttonSourceFrame1" format="color" />
+        <attr name="color_buttonSourceFrame2" format="color" />
+        <attr name="color_buttonSourceFrame3" format="color" />
+        <attr name="color_buttonSourceFrame4" format="color" />
+        <attr name="color_buttonPlaybackPressed" format="color" />
+
+    </declare-styleable>
+</resources>
